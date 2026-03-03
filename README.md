@@ -9,3 +9,7 @@
   - 4. Решающее дерево (Decision Tree)
     - DecisionTreeClassifier()
     - DecisionTreeRegressor()
+  - 5. KMEANS (Кластеризация)
+  - 6. DBSCAN (Кластеризация)
+  
+  
